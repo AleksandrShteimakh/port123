@@ -1,5 +1,5 @@
-import project01 from "./../img/projects/01.jpg";
-import project01Big from "./../img/projects/01-big.jpg";
+import project01 from "./../img/projects/001-smal.jpg";
+import project01Big from "./../img/projects/001.jpg";
 
 import project02 from "./../img/projects/02.jpg";
 import project02Big from "./../img/projects/02-big.jpg";
@@ -18,11 +18,11 @@ import project06Big from "./../img/projects/06-big.jpg";
 
 const projects = [
   {
-    title: "Gemind streaming portal",
-    skills: "React, Node.js, MongoDB",
+    title: "Phonebook",
+    skills: "React, Node.js",
     img: project01,
     imgBig: project01Big,
-    gitHubLink: "https://github.com/",
+    gitHubLink: "https://aleksandrshteimakh.github.io/goit-react-hw-08-phonebook/",
   },
   {
     title: "Video service",
