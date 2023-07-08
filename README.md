@@ -85,8 +85,8 @@ GitHub.
 [https://goitacademy.github.io/react-homework-template](https://goitacademy.github.io/react-homework-template).
 
 Если открывается пустая страница, убедись что во вкладке `Console` нет ошибок
-связанных с неправильными путями к CSS и JS файлам проекта (**404**). Скорее
-всего у тебя неправильное значение свойства `homepage` в файле `package.json`.
+связанных с неправильными путями CSS и JS файлам проекта (**404**). Скорее всего
+у тебя неправильное значение свойства `homepage` в файле `package.json`.
 
 ### Маршрутизация
 
