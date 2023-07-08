@@ -25,11 +25,11 @@ const projects = [
     gitHubLink: "https://aleksandrshteimakh.github.io/goit-react-hw-08-phonebook/",
   },
   {
-    title: "Video service",
-    skills: "React, PHP, Mysql",
+    title: "Image finder",
+    skills: "React, JS, Node.js",
     img: project02,
     imgBig: project02Big,
-    gitHubLink: "https://github.com/",
+    gitHubLink: "https://aleksandrshteimakh.github.io/goit-react-hw-03-image-finder/",
   },
 
   {
