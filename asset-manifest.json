@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/port123/static/css/main.d15f1936.css",
-    "main.js": "/port123/static/js/main.d036c402.js",
+    "main.js": "/port123/static/js/main.7446e532.js",
     "static/js/787.6b7abe35.chunk.js": "/port123/static/js/787.6b7abe35.chunk.js",
     "static/media/04-big.jpg": "/port123/static/media/04-big.9dc8caf822c4a4116af4.jpg",
     "static/media/03-big.jpg": "/port123/static/media/03-big.42d4e6c6843189e73fd2.jpg",
@@ -9,13 +9,13 @@
     "static/media/02-big.jpg": "/port123/static/media/02-big.55e8268286a008f0aa84.jpg",
     "static/media/06-big.jpg": "/port123/static/media/06-big.51b90ae43fdfcf0ab077.jpg",
     "static/media/001.jpg": "/port123/static/media/001.e4a1f425c55327949335.jpg",
+    "static/media/002.jpg": "/port123/static/media/002.7fe4bbbeb2acfab27a33.jpg",
     "static/media/04.jpg": "/port123/static/media/04.da38cca11cede6d4ef43.jpg",
-    "static/media/03.jpg": "/port123/static/media/03.a1f0cefe3665b6313065.jpg",
     "static/media/05.jpg": "/port123/static/media/05.497e1d12eb46a0b52271.jpg",
     "static/media/06.jpg": "/port123/static/media/06.86ff2b3c4326d053ac65.jpg",
-    "static/media/02.jpg": "/port123/static/media/02.97324eaa701fadea307f.jpg",
+    "static/media/001-smal.jpg": "/port123/static/media/001-smal.01c138deac74cdde7b59.jpg",
+    "static/media/003.jpg": "/port123/static/media/003.ea08972f4898742fe0fb.jpg",
     "static/media/header-bg.png": "/port123/static/media/header-bg.5bf82a058f892ab7f237.png",
-    "static/media/001-smal.jpg": "/port123/static/media/001-smal.a7935d7e9938969f50ca.jpg",
     "static/media/sun.svg": "/port123/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
     "static/media/moon.svg": "/port123/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
     "static/media/gitHub.svg": "/port123/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
@@ -26,11 +26,11 @@
     "index.html": "/port123/index.html",
     "static/media/linkedIn.svg": "/port123/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
     "main.d15f1936.css.map": "/port123/static/css/main.d15f1936.css.map",
-    "main.d036c402.js.map": "/port123/static/js/main.d036c402.js.map",
+    "main.7446e532.js.map": "/port123/static/js/main.7446e532.js.map",
     "787.6b7abe35.chunk.js.map": "/port123/static/js/787.6b7abe35.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d15f1936.css",
-    "static/js/main.d036c402.js"
+    "static/js/main.7446e532.js"
   ]
 }
