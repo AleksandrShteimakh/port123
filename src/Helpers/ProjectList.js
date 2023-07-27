@@ -1,10 +1,10 @@
 import project01 from "./../img/projects/001-smal.jpg";
 import project01Big from "./../img/projects/001.jpg";
 
-import project02 from "./../img/projects/02.jpg";
+import project002 from "./../img/projects/002.jpg";
 import project02Big from "./../img/projects/02-big.jpg";
 
-import project03 from "./../img/projects/03.jpg";
+import project003 from "./../img/projects/003.jpg";
 import project03Big from "./../img/projects/03-big.jpg";
 
 import project04 from "./../img/projects/04.jpg";
@@ -27,17 +27,17 @@ const projects = [
   {
     title: "Image finder",
     skills: "React, JS, Node.js",
-    img: project02,
+    img: project002,
     imgBig: project02Big,
     gitHubLink: "https://aleksandrshteimakh.github.io/goit-react-hw-03-image-finder/",
   },
 
   {
-    title: "Video portal",
-    skills: "Vue JS, Node.js, MongoDB",
-    img: project03,
+    title: "Random colors",
+    skills: "JS, HTML, CSS",
+    img: project003,
     imgBig: project03Big,
-    gitHubLink: "https://github.com/",
+    gitHubLink: "https://aleksandrshteimakh.github.io/colorius/",
   },
 
   {
